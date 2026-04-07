@@ -38,10 +38,10 @@ const developer = {
 
 Hi I'm Abdul Mumin a passionate **Frontend Developer** who loves crafting clean, interactive, and responsive web experiences. My focus is on writing elegant HTML, expressive CSS, and dynamic JavaScript that brings ideas to life in the browser.
 
-- 🔭 Currently building and refining my personal portfolio
-- 🌱 Always learning and staying current with web trends
-- 💬 Ask me about **HTML, CSS, JavaScript, UI/UX design**
-- ⚡ Fun fact: I believe great design is invisible — it just *feels* right
+- Currently building and refining my personal portfolio
+- Always learning and staying current with web trends
+- Ask me about **HTML, CSS, JavaScript, UI/UX design**
+  Fun fact: I believe great design is invisible — it just *feels* right
 
 <br clear="right"/>
 
