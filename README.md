@@ -110,7 +110,7 @@ Got a project in mind? Let's collaborate!
 
 | Platform | Link |
 |:---:|:---:|
-| 🌐 **Portfolio** | [yourportfolio.com](https://yourportfolio.com) |
+| 🌐 **Portfolio** | [My portfolio](https://abdulmuminportfolio.netlify.app/ ) |
 | 💼 **LinkedIn** | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) |
 | 🐦 **Twitter/X** | [@yourhandle](https://twitter.com/yourhandle) |
 | 📧 **Email** | [salifuabdulmumin20@gmail.com](mailto:your@email.com) |
